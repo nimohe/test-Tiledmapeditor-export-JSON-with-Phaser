@@ -1,0 +1,1 @@
+# test-Tiledmapeditor-export-JSON-with-Phaser
