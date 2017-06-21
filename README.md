@@ -8,8 +8,9 @@
 
 ##  online link
 
-- [v0.18.2 demo](./v0.18.2/index.html)
-- [v1.0.1 demo](./v1.0.1/index.html)
+- [v0.18.2 online demo](https://nimohe.github.io/test-Tiledmapeditor-export-JSON-with-Phaser/v0.18.2/index.html
+)
+- [v1.0.1 online demo](https://nimohe.github.io/test-Tiledmapeditor-export-JSON-with-Phaser/v1.0.1/index.html)
 
 ---
 
