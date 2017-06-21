@@ -1,8 +1,8 @@
 # test-Tiledmapeditor-export-JSON-with-Phaser
 
 ##  environment
-Phaser ver :2.6.2
-Tiled map editor:v-0.18.2 and v-1.01
+- Phaser ver :2.6.2
+- Tiled map editor:v-0.18.2 and v-1.01
 
 ---
 
@@ -11,7 +11,9 @@ Tiled map editor:v-0.18.2 and v-1.01
 - [v0.18.2 demo](./v0.18.2/index.html)
 - [v1.0.1 demo](./v1.0.1/index.html)
 
-## v0.82.0
+---
+
+## v0.18.2
 
 code is ok
 
