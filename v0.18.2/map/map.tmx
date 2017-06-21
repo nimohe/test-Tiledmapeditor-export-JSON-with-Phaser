@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="8" height="6" tilewidth="100" tileheight="100" nextobjectid="1">
+ <tileset firstgid="1" name="phaser_tiles" tilewidth="100" tileheight="100" spacing="1" margin="1" tilecount="36" columns="6">
+  <image source="phaser_tiles.png" width="607" height="607"/>
+ </tileset>
+ <layer name="layer" width="8" height="6">
+  <data encoding="csv">
+25,25,25,25,25,25,25,25,
+25,25,25,25,25,25,25,25,
+25,25,25,13,25,25,25,25,
+25,25,25,25,25,25,25,25,
+25,25,25,25,25,25,15,25,
+25,25,25,25,25,25,25,25
+</data>
+ </layer>
+</map>

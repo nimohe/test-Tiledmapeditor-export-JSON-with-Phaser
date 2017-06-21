@@ -1,0 +1,28 @@
+{ "height":6,
+ "layers":[
+        {
+         "data":[25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 13, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 15, 25, 25, 25, 25, 25, 25, 25, 25, 25],
+         "height":6,
+         "name":"layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.0.1",
+ "tileheight":100,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"tile.tsx"
+        }],
+ "tilewidth":100,
+ "type":"map",
+ "version":1,
+ "width":8
+}

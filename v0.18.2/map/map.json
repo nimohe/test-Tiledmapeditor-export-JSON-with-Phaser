@@ -1,0 +1,35 @@
+{ "height":6,
+ "layers":[
+        {
+         "data":[25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 13, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 15, 25, 25, 25, 25, 25, 25, 25, 25, 25],
+         "height":6,
+         "name":"layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tileheight":100,
+ "tilesets":[
+        {
+         "columns":6,
+         "firstgid":1,
+         "image":"phaser_tiles.png",
+         "imageheight":607,
+         "imagewidth":607,
+         "margin":1,
+         "name":"phaser_tiles",
+         "spacing":1,
+         "tilecount":36,
+         "tileheight":100,
+         "tilewidth":100
+        }],
+ "tilewidth":100,
+ "version":1,
+ "width":8
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>test tiled v0.18.2</title>
+    <script type="text/javascript" src="../lib/phaser.min.js"></script>
+</head>
+
+<body>
+    <script type="text/javascript">
+    var game = new Phaser.Game(800, 600, Phaser.AUTO, 'phaser-example', {
+        preload: preload,
+        create: create,
+        update: update,
+        render: render
+    });
+
+    function preload() {
+
+        game.load.tilemap('map', 'map/map.json', null, Phaser.Tilemap.TILED_JSON);
+        game.load.image('phaser_tiles', 'map/phaser_tiles.png');
+    }
+
+
+    var map;
+    var layer;
+
+    function create() {
+        map = game.add.tilemap('map');
+        // console.log(map);
+        map.addTilesetImage('phaser_tiles', 'phaser_tiles');
+        layer = map.createLayer('layer');
+
+        var style = { font: "25px Arial", fill: "#ff0044", align: "center" };
+        var text=game.add.text(0,0,"tiled map v0.18.2",style);
+    }
+
+    function update() {
+
+    }
+
+    function render() {
+
+    }
+    </script>
+</body>
+
+</html>
