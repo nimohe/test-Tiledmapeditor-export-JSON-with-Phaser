@@ -38,6 +38,12 @@ at c.Loader.asyncComplete (phaser.min.js:20)
 at c.Loader.fileComplete (phaser.min.js:20)
 ```
 
+###  solved 
+- update date(2017-06-22)
+- click the `Embed Tileset` button → export JSON file
+- then will be ok
+
+![Alt text](embed-btn.png)
 
 ---
 
